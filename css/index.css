@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,900;1,400&display=swap');
+
+:root {
+
+}
+
+body {
+	/* Default properties */
+}
+
+.property {
+	background-color: lightgreen;
+	width: 20em;
+	padding: 2em;
+}
+
+.howmany {
+	/* color: red; */
+	font-weight: 700;
+}
+.rooms {
+	list-style-type: none;
+}
+
+.a {
+	/* background-color: blue; */
+}
+.b {
+	/* background-color: red; */
+}
+.c {
+	/* background-color: gold; */
+}
